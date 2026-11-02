@@ -40,31 +40,28 @@
 
 ## 2. 핵심 기능
 
-**튜토리얼 → 학습 → 이해 → 실전 연습** — 배포 사이트 시연 영상에서 기능별 구간을 잘라 2배속으로 구성.
+**튜토리얼 → 학습 → 이해 → 실전 연습**
 
 <table>
   <tr>
-    <td width="50%" valign="top"><b>0 안내 · 튜토리얼</b><br><sub>걱정되는 주제를 고르면 카드뉴스 → 퀴즈 → AI 팀장 순서로 안내</sub><br><img src="docs/clips/tutorial.gif" width="100%" alt="튜토리얼"></td>
-    <td width="50%" valign="top"><b>1 학습 · 카드뉴스 · 학습 전후 체크</b><br><sub>읽기 전과 후에 이해도를 스스로 체크해 변화 확인</sub><br><img src="docs/clips/cardnews.gif" width="100%" alt="카드뉴스 · 학습 전후 체크"></td>
+    <td width="50%" valign="top"><img src="docs/screens/tutorial.jpg" width="100%" alt="튜토리얼"><br><b>0 · 튜토리얼</b><br><sub>걱정되는 주제를 고르면 카드뉴스 → 퀴즈 → AI 팀장 순서로 안내</sub></td>
+    <td width="50%" valign="top"><img src="docs/screens/cardnews.jpg" width="100%" alt="카드뉴스 · 학습 전후 체크"><br><b>1 · 카드뉴스 · 학습 전후 체크</b><br><sub>읽기 전과 후에 이해도를 스스로 체크해 변화 확인</sub></td>
   </tr>
   <tr>
-    <td width="50%" valign="top"><b>2 이해 · 퀴즈 · 오답 다시 풀기</b><br><sub>상황별 문제와 해설, 틀린 문제만 골라 다시 풀기</sub><br><img src="docs/clips/quiz.gif" width="100%" alt="퀴즈 · 오답 다시 풀기"></td>
-    <td width="50%" valign="top"><b>3 실전 연습 · AI 팀장 피드백</b><br><sub>팀장에게 직접 답하고 3가지 기준 · 15점 만점 피드백</sub><br><img src="docs/clips/ai.gif" width="100%" alt="AI 팀장 피드백"></td>
+    <td width="50%" valign="top"><img src="docs/screens/quiz.jpg" width="100%" alt="퀴즈 · 오답 다시 풀기"><br><b>2 · 퀴즈 · 오답 다시 풀기</b><br><sub>상황별 문제와 해설, 틀린 문제만 골라 다시 풀기</sub></td>
+    <td width="50%" valign="top"><img src="docs/screens/ai.jpg" width="100%" alt="AI 팀장 피드백"><br><b>3 · AI 팀장 피드백</b><br><sub>팀장에게 직접 답하고 3가지 기준 · 15점 만점 피드백</sub></td>
   </tr>
 </table>
 
-### 부가 콘텐츠 — 같은 주제를 다양하게
+**부가 콘텐츠** — 같은 주제를 다양하게
 
 <table>
   <tr>
-    <td width="33%" valign="top"><b>SOS 상담</b><br><sub>급한 순간 AI에게 바로 질문</sub><br><img src="docs/clips/sos.gif" width="100%" alt="SOS 상담"></td>
-    <td width="33%" valign="top"><b>보이는 라디오</b><br><sub>인기 사연을 선배 · 신입 DJ 대화로</sub><br><img src="docs/clips/radio.gif" width="100%" alt="보이는 라디오"></td>
-    <td width="33%" valign="top"><b>고민상담소</b><br><sub>포스트잇 고민 · 선배 조언</sub><br><img src="docs/clips/community.gif" width="100%" alt="고민상담소"></td>
-  </tr>
-  <tr>
-    <td width="33%" valign="top"><b>근태 가이드</b><br><sub>취업규칙 스티커 · OX 퀴즈</sub><br><img src="docs/clips/calendar.gif" width="100%" alt="근태 가이드"></td>
-    <td width="33%" valign="top"><b>체크리스트</b><br><sub>실천 미션 · 근거 PDF · 책상 메모</sub><br><img src="docs/clips/checklist.gif" width="100%" alt="체크리스트"></td>
-    <td></td>
+    <td width="20%" valign="top"><img src="docs/screens/sos.jpg" width="100%" alt="SOS 상담"><br><sub><b>SOS 상담</b></sub></td>
+    <td width="20%" valign="top"><img src="docs/screens/radio.jpg" width="100%" alt="보이는 라디오"><br><sub><b>보이는 라디오</b></sub></td>
+    <td width="20%" valign="top"><img src="docs/screens/community.jpg" width="100%" alt="고민상담소"><br><sub><b>고민상담소</b></sub></td>
+    <td width="20%" valign="top"><img src="docs/screens/calendar.jpg" width="100%" alt="근태 가이드"><br><sub><b>근태 가이드</b></sub></td>
+    <td width="20%" valign="top"><img src="docs/screens/checklist.jpg" width="100%" alt="체크리스트"><br><sub><b>체크리스트</b></sub></td>
   </tr>
 </table>
 
