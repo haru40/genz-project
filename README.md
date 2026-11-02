@@ -77,6 +77,10 @@
 
 ![4. 학습 기능 · 성장 기록](docs/sections/learning.png)
 
+**퇴근길 아웃트로** — 성장 기록 확인 후 책이 덮이며 “오늘도 무사히 퇴근!”
+
+<img src="docs/screens/outro.gif" width="100%" alt="퇴근길 아웃트로 영상">
+
 ---
 
 <a name="s5"></a>
