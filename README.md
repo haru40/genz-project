@@ -19,7 +19,7 @@
 
 <table>
   <tr><th align="left" width="90">기획</th><td><a href="#s1">1. 기획 및 비전</a> — 문제 정의 · 개발 타임라인</td></tr>
-  <tr><th align="left">내 작업</th><td><a href="#s2">2. UI/UX 설계 (표류 → 사무실 → 퇴근)</a> · <a href="#s3">3. SOS 상담</a> · <a href="#s4">4. AI 팀장 시뮬레이션</a></td></tr>
+  <tr><th align="left">내 작업</th><td><a href="#s2">2. UI/UX 설계 (인트로 · 사무실 · 아웃트로)</a> · <a href="#s3">3. SOS 상담</a> · <a href="#s4">4. AI 팀장 시뮬레이션</a></td></tr>
   <tr><th align="left">설계</th><td><a href="#s5">5. 서비스 설계</a> · <a href="#s6">6. 작동 구조</a> · <a href="#s7">7. 데이터베이스(ERD)</a></td></tr>
   <tr><th align="left">개발</th><td><a href="#s8">8. 기술 스택 · 의사결정</a> · <a href="#s9">9. 프로젝트 구조</a></td></tr>
   <tr><th align="left">검증</th><td><a href="#s10">10. 피드백 반영</a> · <a href="#s11">11. 사용자 테스트 결과</a></td></tr>
@@ -38,13 +38,13 @@
 
 <a name="s2"></a>
 
-![2. UI/UX 설계 — 표류 · 사무실 · 퇴근](docs/sections/ux.png)
+![2. UI/UX 설계 — 인트로 · 사무실 · 첫 방문 안내](docs/sections/ux.png)
 
-**④ 퇴근 — 스크롤 아웃트로** · 인사 → 오늘의 성장 기록 → 출발점 기사 → 책이 덮이며 “오늘도 무사히 퇴근!”
+**④ 퇴근길 아웃트로** — 인사 → 오늘의 성장 기록 → 출발점 기사 다시 보기 → 책이 덮이며 “오늘도 무사히 퇴근!”
 
 <img src="docs/screens/outro.gif" width="100%" alt="퇴근길 아웃트로 전체 영상">
 
-![퇴근길 인터랙션 · 오늘의 성장 기록](docs/sections/uxout.png)
+![오늘의 성장 기록](docs/sections/uxout.png)
 
 ---
 
