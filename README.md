@@ -32,6 +32,8 @@
 
 ![1. 기획 및 비전 — 문제 정의 · 개발 타임라인](docs/sections/plan.png)
 
+출발점 기사: [동아일보 「신입사원 첫 출근, ‘이 실수’했다간 첫 단추 잘못 끼운다」 (2026.04.10) ↗](https://www.donga.com/news/Society/article/all/20260410/133715092/2)
+
 ---
 
 <a name="s2"></a>
