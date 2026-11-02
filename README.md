@@ -81,6 +81,8 @@
 
 <p align="center"><img src="docs/screens/outro.gif" width="70%" alt="퇴근길 아웃트로 영상"></p>
 
+![오늘의 성장 기록](docs/sections/learning-growth.png)
+
 ---
 
 <a name="s5"></a>
