@@ -19,7 +19,7 @@
 
 <table>
   <tr><th align="left" width="90">기획</th><td><a href="#s1">1. 기획 및 비전</a> — 문제 정의 · 개발 타임라인</td></tr>
-  <tr><th align="left">기능</th><td><a href="#s2">2. 핵심 기능</a> · <a href="#s3">3. AI 팀장 시뮬레이션</a> · <a href="#s4">4. 보이는 라디오 · 커뮤니티</a> · <a href="#s5">5. 학습 기능 · 성장 기록</a></td></tr>
+  <tr><th align="left">기능</th><td><a href="#s2">2. 핵심 기능 (튜토리얼 → 카드뉴스 → 퀴즈 → AI 팀장)</a> · <a href="#s3">3. AI 팀장 시뮬레이션</a> · <a href="#s4">4. 보이는 라디오 · 커뮤니티</a> · <a href="#s5">5. 학습 기능 · 성장 기록</a></td></tr>
   <tr><th align="left">설계</th><td><a href="#s6">6. 서비스 설계</a> · <a href="#s7">7. 작동 구조</a> · <a href="#s8">8. 데이터베이스(ERD)</a></td></tr>
   <tr><th align="left">개발</th><td><a href="#s9">9. 기술 스택 · 의사결정</a> · <a href="#s10">10. 프로젝트 구조</a></td></tr>
   <tr><th align="left">검증</th><td><a href="#s11">11. 피드백 반영</a> · <a href="#s12">12. 사용자 테스트 결과</a></td></tr>
@@ -38,7 +38,7 @@
 
 <a name="s2"></a>
 
-![2. 핵심 기능 — 책상 위 물건 8개, 네 단계 학습](docs/sections/features.png)
+![2. 핵심 기능 — 튜토리얼 → 카드뉴스 · 학습 전후 체크 → 퀴즈 · 오답 다시 풀기 → AI 팀장 피드백](docs/sections/features.png)
 
 ---
 
