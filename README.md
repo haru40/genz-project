@@ -19,11 +19,11 @@
 
 <table>
   <tr><th align="left" width="90">기획</th><td><a href="#s1">1. 기획 및 비전</a> — 문제 정의 · 개발 타임라인</td></tr>
-  <tr><th align="left">기능</th><td><a href="#s2">2. 핵심 기능 (튜토리얼 → 카드뉴스 → 퀴즈 → AI 팀장)</a> · <a href="#s3">3. AI 팀장 시뮬레이션</a> · <a href="#s4">4. 보이는 라디오 · 커뮤니티</a> · <a href="#s5">5. 학습 기능 · 성장 기록</a></td></tr>
-  <tr><th align="left">설계</th><td><a href="#s6">6. 서비스 설계</a> · <a href="#s7">7. 작동 구조</a> · <a href="#s8">8. 데이터베이스(ERD)</a></td></tr>
-  <tr><th align="left">개발</th><td><a href="#s9">9. 기술 스택 · 의사결정</a> · <a href="#s10">10. 프로젝트 구조</a></td></tr>
-  <tr><th align="left">검증</th><td><a href="#s11">11. 피드백 반영</a> · <a href="#s12">12. 사용자 테스트 결과</a></td></tr>
-  <tr><th align="left">팀</th><td><a href="#s13">13. 팀 구성</a></td></tr>
+  <tr><th align="left">기능</th><td><a href="#s2">2. 핵심 기능 (튜토리얼 → 카드뉴스 → 퀴즈 → AI 팀장)</a> · <a href="#s3">3. AI 팀장 시뮬레이션</a> · <a href="#s4">4. 학습 기능 · 성장 기록</a></td></tr>
+  <tr><th align="left">설계</th><td><a href="#s5">5. 서비스 설계</a> · <a href="#s6">6. 작동 구조</a> · <a href="#s7">7. 데이터베이스(ERD)</a></td></tr>
+  <tr><th align="left">개발</th><td><a href="#s8">8. 기술 스택 · 의사결정</a> · <a href="#s9">9. 프로젝트 구조</a></td></tr>
+  <tr><th align="left">검증</th><td><a href="#s10">10. 피드백 반영</a> · <a href="#s11">11. 사용자 테스트 결과</a></td></tr>
+  <tr><th align="left">팀</th><td><a href="#s12">12. 팀 구성</a></td></tr>
 </table>
 
 ---
@@ -75,61 +75,55 @@
 
 <a name="s4"></a>
 
-![4. 보이는 라디오 · 안전한 커뮤니티](docs/sections/radio.png)
+![4. 학습 기능 · 성장 기록](docs/sections/learning.png)
 
 ---
 
 <a name="s5"></a>
 
-![5. 학습 기능 · 성장 기록](docs/sections/learning.png)
+![5. 서비스 설계 — Use Case](docs/sections/usecase.png)
 
 ---
 
 <a name="s6"></a>
 
-![6. 서비스 설계 — Use Case](docs/sections/usecase.png)
+![6. 작동 구조 — 입력부터 결과물까지](docs/sections/works.png)
 
 ---
 
 <a name="s7"></a>
 
-![7. 작동 구조 — 입력부터 결과물까지](docs/sections/works.png)
+![7. 데이터베이스 설계 — ERD](docs/sections/erd.png)
 
 ---
 
 <a name="s8"></a>
 
-![8. 데이터베이스 설계 — ERD](docs/sections/erd.png)
+![8. 기술 스택 · 기술적 의사결정](docs/sections/stack.png)
 
 ---
 
 <a name="s9"></a>
 
-![9. 기술 스택 · 기술적 의사결정](docs/sections/stack.png)
+![9. 프로젝트 구조](docs/sections/tree.png)
 
 ---
 
 <a name="s10"></a>
 
-![10. 프로젝트 구조](docs/sections/tree.png)
+![10. 피드백 반영 — 받은 피드백 → 기능](docs/sections/feedback.png)
 
 ---
 
 <a name="s11"></a>
 
-![11. 피드백 반영 — 받은 피드백 → 기능](docs/sections/feedback.png)
+![11. 사용자 테스트 결과 — 2026.10.28](docs/sections/usertest.png)
 
 ---
 
 <a name="s12"></a>
 
-![12. 사용자 테스트 결과 — 2026.10.28](docs/sections/usertest.png)
-
----
-
-<a name="s13"></a>
-
-## 13. 팀 구성
+## 12. 팀 구성
 
 | 역할 | 담당 |
 |---|---|
