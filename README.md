@@ -40,9 +40,9 @@
 
 ![2. UI/UX 설계 — 인트로 · 사무실 · 첫 방문 안내](docs/sections/ux.png)
 
-**④ 퇴근길 아웃트로** — 사무실을 나서면 인사 → 스크롤하면 오늘의 성장 기록
+**④ 퇴근길 아웃트로** — 인사 → 오늘의 성장 기록 → 출발점 기사 다시 보기 → 책이 덮이며 “오늘도 무사히 퇴근!”
 
-<p align="center"><img src="docs/screens/outro.gif" width="70%" alt="퇴근길 아웃트로 영상"></p>
+<img src="docs/screens/outro.gif" width="100%" alt="퇴근길 아웃트로 전체 영상">
 
 ![오늘의 성장 기록](docs/sections/uxout.png)
 
