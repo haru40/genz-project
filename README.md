@@ -98,7 +98,7 @@
 
 <a name="s10"></a>
 
-![10. 피드백 반영 — 받은 피드백 → 기능](docs/sections/feedback.png)
+![10. 피드백 반영 — 날짜별 타임라인](docs/sections/feedback.png)
 
 ---
 
