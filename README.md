@@ -50,7 +50,7 @@
 
 <img src="docs/screens/outro.gif" width="100%" alt="퇴근길 아웃트로 전체 영상">
 
-![출발점 기사 다시 보기 · 오늘의 성장 기록](docs/sections/uxout.png)
+![오늘의 성장 기록](docs/sections/uxout.png)
 
 ---
 
