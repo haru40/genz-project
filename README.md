@@ -40,7 +40,7 @@
 
 ![2. UI/UX 흐름 — 표류 · 사무실 · 퇴근](docs/sections/ux.png)
 
-**튜토리얼** — 고른 주제로 물건을 비추며 STEP 1 카드뉴스 → STEP 2 퀴즈 → STEP 3 AI 팀장
+**사무실 튜토리얼** — 고른 주제로 물건을 비추며 STEP 1 카드뉴스 → STEP 2 퀴즈 → STEP 3 AI 팀장
 
 <img src="docs/screens/tutorial.gif" width="100%" alt="사무실 튜토리얼 영상">
 
